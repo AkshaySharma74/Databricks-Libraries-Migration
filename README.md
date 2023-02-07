@@ -26,6 +26,7 @@ Once the processing is done you can validate the export metrics in the table men
 
 On the FileSystem you will be able to see the the Libraries exported along with CLUSTER_NAME.json file.
 
-![Uploading image.png…]()
+<img width="858" alt="image" src="https://user-images.githubusercontent.com/91735853/217284737-11bb685d-30c9-41b5-a846-f423e3f425e0.png">
+
 
 This JSON file contains the information of all the libraries exported for the given cluster and will be utilised while importing the libraries to another cluster.
