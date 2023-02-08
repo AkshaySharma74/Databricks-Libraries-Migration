@@ -52,7 +52,8 @@ Following variables needs to be set:
 
 > 5. *IMPORT_DATE* : The version of libraries that needs to be imported
 
-![image](https://user-images.githubusercontent.com/91735853/217462954-fe1c13db-7d2e-4e47-b800-09ae5ed080ed.png)
+![image](https://user-images.githubusercontent.com/91735853/217492168-538e5a53-115c-430f-ae91-f0f98168c7dd.png)
+
 
 
 All pre-requisites are done now, All we need to do is create an object of *ImportJars* class and call the *import_libraries_to_cluster* method using the object.
