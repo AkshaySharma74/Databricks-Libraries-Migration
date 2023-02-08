@@ -58,15 +58,10 @@ Following variables needs to be set:
 
 All pre-requisites are done now, All we need to do is create an object of *ImportJars* class and call the *import_libraries_to_cluster* method using the object.
 
-<img width="503" alt="image" src="https://user-images.githubusercontent.com/91735853/217280968-a03f118f-0605-4f23-8e95-9896bd5f2a2c.png">
+![image](https://user-images.githubusercontent.com/91735853/217492396-7a6098f8-7566-447b-b874-dd3eb605eff0.png)
 
-Once the processing is done you can validate the export metrics in the table mentioned in *EXPORT_LOG_TABLE*:
+Once the processing is done you can validate the export metrics in the table mentioned in *LOG_TABLE_NAME*:
 
-<img width="1611" alt="image" src="https://user-images.githubusercontent.com/91735853/217282779-21f2761a-b680-4f62-a914-03c6bdf9de15.png">
+![image](https://user-images.githubusercontent.com/91735853/217492882-127eb496-df3e-4f04-85c6-dd1a59a336b2.png)
 
-On the FileSystem you will be able to see the the Libraries exported along with CLUSTER_NAME.json file.
-
-![image](https://user-images.githubusercontent.com/91735853/217490510-30b8af67-921c-44f2-9dfb-da313ae0fe1f.png)
-
-
-This JSON file contains the information of all the libraries exported for the given cluster and will be utilised while importing the libraries to another cluster.
+On the Cluster page you will be able to see the libraries being installed.
