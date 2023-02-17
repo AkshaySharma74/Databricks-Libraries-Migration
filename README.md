@@ -64,4 +64,10 @@ Once the processing is done you can validate the export metrics in the table men
 
 ![image](https://user-images.githubusercontent.com/91735853/217492882-127eb496-df3e-4f04-85c6-dd1a59a336b2.png)
 
+
+Otherwise you can also utilise it to manually specify a list of libraries to install them on any cluster without the need of exporting it first.
+
+<img width="1373" alt="image" src="https://user-images.githubusercontent.com/91735853/219584965-7def4e2b-4bc0-43ee-a3e6-757bb5e46998.png">
+
+
 On the Cluster page you will be able to see the libraries being installed.
